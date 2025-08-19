@@ -8,8 +8,8 @@ public class AssignmentMain {
 	
 
 	public static void main(String[] args) {
-		Manager m=new Manager("puvi","5821",500000,"HR");
-		Developer d=new Developer("vengat","9999",1000,"JAVA");
+		Manager m=new Manager("Dinesh","5821",500000,"HR");
+		Developer d=new Developer("Edwin","9999",1000,"JAVA");
 		
 		
 		EmployeeUtilities.print(m);
